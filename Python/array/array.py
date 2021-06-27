@@ -1,8 +1,7 @@
 #
-# 1) Insertion, deletion and random access of array
-# 2) Assumes int for element type
-# 3) Object-oriented programing 
-#
+# Insertion, deletion and random access of array
+# Assumes int for element type
+# Object-oriented programing 
 #
 
 
