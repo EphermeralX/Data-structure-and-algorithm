@@ -1,1 +1,3 @@
-./Golang/array/.idea
+.idea
+/Golang/array/.idea
+*.idea
