@@ -54,7 +54,7 @@ class MyArray:
 def test_array():
     array = MyArray(5)
     array.insert(0, 2)
-    array.insert(0, 4)
+    array.insert(0, 3)
     array.insert(1, 5)
     array.insert(3, 6)
     array.insert(3, 0)
