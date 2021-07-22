@@ -24,6 +24,7 @@ public class SkipListOptimization {
         }
     }
 
+    //insert operation
     public void insert(int value) {
         int level = head.forwards[0] == null ? 1 : randomLevel();
         if (level > levelCount) {
